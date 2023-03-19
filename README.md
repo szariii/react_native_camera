@@ -30,3 +30,11 @@
     <li>Install expo app on phone</li>
   <li>Scan QRCode which should show in cmd</li>
 </ol>
+
+<h2>Screenshots</h2>
+<img src="./img/img1.jpg" alt="img1" width="30%" >
+<img src="./img/img2.jpg" alt="img2" width="30%" >
+<img src="./img/img3.jpg" alt="img3" width="30%" >
+<img src="./img/img4.jpg" alt="img4" width="30%" >
+<img src="./img/img5.jpg" alt="img5" width="30%" >
+<img src="./img/img6.jpg" alt="img6" width="30%" >
